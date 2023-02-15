@@ -3,8 +3,7 @@
 ![](https://media3.giphy.com/media/2vDJLn6LzoSSIJe3Xj/200w.gif?cid=82a1493bdqr9esp2nd6fe06tf2xuj7sguznmnfrbk47zhdjy&rid=200w.gif)
 
 # 💫 About Me:
-👶 Junior DEV<br>💻 Passionate for Coding<br>🦾 Completed Multiple Solo Projects<br>😻 Curious about Blockchain Tech<br>💯 Multitalented Introvert <br>🙌 New to Git (Looking Forward to remove this ASAP 😉)
-
+👶 Junior DEV<br>💻 Passionate for Coding<br>🦾 Completed Multiple Solo Projects<br>😻 Curious about Blockchain Tech<br>💯 Multitalented Introvert
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uddeshyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uddeshydhingra) 
